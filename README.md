@@ -37,12 +37,6 @@ A comprehensive Leave Management System built with the MERN stack (MongoDB, Expr
 - **JWT** - JSON Web Token for authentication
 - **Nodemailer** - Email notifications
 
-### DevOps & Scaling
-- **Docker** - Containerization
-- **Nginx** - Load balancer and reverse proxy
-- **Redis** - Caching and session storage
-- **PM2** - Process manager for Node.js
-
 ## 📋 Prerequisites
 
 Before running this application, make sure you have:
